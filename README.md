@@ -63,3 +63,29 @@ O desenvolvimento e a revisão deste projeto proporcionaram experiência prátic
 ## Contexto
 
 Projeto desenvolvido em ambiente acadêmico, em grupo, com configurações e testes realizados em simulador. A empresa e os ambientes representados são fictícios.
+
+
+---
+
+## Topologia da rede
+
+### Matriz — São Paulo
+
+![Topologia da matriz em São Paulo](imagens/matriz-sao-paulo.png)
+
+### Filial 01 — Belo Horizonte
+
+![Topologia da filial de Belo Horizonte](imagens/filial-01-belo-horizonte.png)
+
+### Filial 02 — Montes Claros
+
+![Topologia da filial de Montes Claros](imagens/filial-02-montes-claros.png)
+
+### Filial 03 — Rio de Janeiro
+
+![Topologia da filial do Rio de Janeiro](imagens/filial-03-rio-de-janeiro.png)
+
+### Interligação dos roteadores — WAN
+
+![Topologia da interligação entre os roteadores](imagens/interligacao-roteadores-wan.png)
+
